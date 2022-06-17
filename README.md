@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Nautilus
-- 💬 Ask me about ...
-- 📫 How to reach me: [my website](https://the-semicolon.dev/)
+- 📫 How to reach me: [personal website](https://the-semicolon.dev/)
