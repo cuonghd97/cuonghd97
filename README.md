@@ -4,4 +4,4 @@
 - 📫 How to reach me: [personal website](https://the-semicolon.dev/)
 
 
-[![DINO](dino.gif)]
+![DINO](dino.gif)
