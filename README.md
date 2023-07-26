@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NautilusJSC
+- 🔭 I’m currently working on AIT
 - 📫 How to reach me: [personal website](https://the-semicolon.dev/)
 
 
