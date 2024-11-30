@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AIT
+- 🔭 I’m currently working on FPT Software
 - 📫 How to reach me: [personal website](https://the-semicolon.dev/)
 
 
